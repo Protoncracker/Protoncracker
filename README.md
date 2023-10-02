@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Protoncracker
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, Welcome to My GitHub! 👋
 
-<!---
-Protoncracker/Protoncracker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+🔒 Nearly a decade in cybersecurity and programming.  
+🛠 Proficient in a wide array of technologies and languages.  
+🌐 Here, you'll find both professional projects and passion projects that I've decided not to keep to myself.
+
+## What Captures My Attention
+🔐 Cybersecurity challenges and solutions.  
+🌐 Emerging technologies and programming paradigms.
+
+## Currently Focused On
+📂 Building a robust, reliable portfolio.  
+🎯 Professionalizing and sharing my personal projects.
+
+## Open for Collaboration On
+🌱 Projects that contribute to the community and foster collaboration.  
+💡 Innovative solutions in cybersecurity.
+
+## Technologies and Tools
+- Batch
+- Bash
+- C++
+- C
+- Java
+- Python
+- JavaScript
+- HTML5
+- SQL
+
+## Get in Touch
+📧 [Email](mailto:tryme.freefall963@passinbox.com)
