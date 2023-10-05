@@ -17,11 +17,11 @@
 
 ## Open for Collaboration On
 🌱 I welcome collaborative initiatives that aim to uplift the community, be it through open-source contributions, educational platforms, or social empowerment.  
-💡 As someone with substantial experience in cybersecurity, I'm continually on the lookout for groundbreaking approaches to tackle both longstanding and emerging threats. I am particularly interested in collaborating on projects that push the boundaries of traditional cybersecurity norms.
-🌐 Open to partnering on endeavors that combine multiple aspects of technology, such as integrating AI in cybersecurity, IoT applications in agribusiness, or blockchain in secure data transactions.
-🎵 With fluency in multiple languages and a passion for artistic expression, I am also open to collaborations that involve cultural interchange, translation services, or combining technology and the arts.
+💡 As someone with substantial experience in cybersecurity, I'm continually on the lookout for groundbreaking approaches to tackle both longstanding and emerging threats. I am particularly interested in collaborating on projects that push the boundaries of traditional cybersecurity norms.  
+🌐 Open to partnering on endeavors that combine multiple aspects of technology, such as integrating AI in cybersecurity, IoT applications in agribusiness, or blockchain in secure data transactions.  
+🎵 With fluency in multiple languages and a passion for artistic expression, I am also open to collaborations that involve cultural interchange, translation services, or combining technology and the arts.  
 
-## Technologies and Tools
+## Technologies and Tools  
 - Batch
 - Bash
 - C++
