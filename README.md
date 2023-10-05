@@ -8,6 +8,7 @@
 
 ## What Captures My Attention  
 🔐 Cybersecurity Challenges and Solutions: As a seasoned cybersecurity consultant, my curiosity is piqued by the rapidly evolving landscape of cyber threats and mitigations. The ethical dimensions and intricate technicalities in this domain continually draw my focus.  
+
 🌐 Emerging Technologies and Programming Paradigms: An early adopter at heart, I am fascinated by technological innovations and shifts in programming paradigms. My interest ranges from quantum computing to blockchain, and from functional to reactive programming, embodying my continual strive for professional growth.  
 💰 Entrepreneurship and innovative investment strategies also capture my attention, embodying my business acumen.  
 
