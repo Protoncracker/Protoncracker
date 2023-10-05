@@ -1,10 +1,10 @@
 # Hello, Welcome to My GitHub! 👋  
 
 ## About Me  
-  🔒 Nearly a decade in cybersecurity and programming, forming my way of thinking and acting.  
-  🛠 Well-versed in a gamut of technologies—ranging from programming languages to infosec tools.  
-  🌐 Here, you'll find both professional projects and passion projects that I've decided not to keep to myself.  
-  🌍 Fluent in English, Spanish and Portuguese, with ongoing studies in 10 additional languages. My multilingual capabilities facilitate cross-border collaborations and diversified problem-solving.  
+  - 🔒 Nearly a decade in cybersecurity and programming, forming my way of thinking and acting.  
+  - 🛠 Well-versed in a gamut of technologies—ranging from programming languages to infosec tools.  
+  - 🌐 Here, you'll find both professional projects and passion projects that I've decided not to keep to myself.  
+  - 🌍 Fluent in English, Spanish and Portuguese, with ongoing studies in 10 additional languages. My multilingual capabilities facilitate cross-border collaborations and diversified problem-solving.  
 
 ## What Captures My Attention  
 🔐 Cybersecurity Challenges and Solutions: As a seasoned cybersecurity consultant, my curiosity is piqued by the rapidly evolving landscape of cyber threats and mitigations. The ethical dimensions and intricate technicalities in this domain continually draw my focus.  
