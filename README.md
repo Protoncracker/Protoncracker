@@ -1,15 +1,15 @@
-# Hello, Welcome to My GitHub! 👋
+# Hello, Welcome to My GitHub! 👋  
 
-## About Me
+## About Me  
 🔒 Nearly a decade in cybersecurity and programming.  
 🛠 Well-versed in a gamut of technologies—ranging from programming languages to infosec tools.  
-🌐 Here, you'll find both professional projects and passion projects that I've decided not to keep to myself.
-🌍 Fluent in English and Portuguese, with ongoing studies in 10 additional languages. My multilingual capabilities facilitate cross-border collaborations and diversified problem-solving.
+🌐 Here, you'll find both professional projects and passion projects that I've decided not to keep to myself.  
+🌍 Fluent in English and Portuguese, with ongoing studies in 10 additional languages. My multilingual capabilities facilitate cross-border collaborations and diversified problem-solving.  
 
-## What Captures My Attention
-🔐 Cybersecurity Challenges and Solutions: As a seasoned cybersecurity consultant, my curiosity is piqued by the rapidly evolving landscape of cyber threats and mitigations. The ethical dimensions and intricate technicalities in this domain continually draw my focus.
-🌐 Emerging Technologies and Programming Paradigms: An early adopter at heart, I am fascinated by technological innovations and shifts in programming paradigms. My interest ranges from quantum computing to blockchain, and from functional to reactive programming, embodying my continual strive for professional growth.
-💰 Entrepreneurship and innovative investment strategies also capture my attention, embodying my business acumen.
+## What Captures My Attention  
+🔐 Cybersecurity Challenges and Solutions: As a seasoned cybersecurity consultant, my curiosity is piqued by the rapidly evolving landscape of cyber threats and mitigations. The ethical dimensions and intricate technicalities in this domain continually draw my focus.  
+🌐 Emerging Technologies and Programming Paradigms: An early adopter at heart, I am fascinated by technological innovations and shifts in programming paradigms. My interest ranges from quantum computing to blockchain, and from functional to reactive programming, embodying my continual strive for professional growth.  
+💰 Entrepreneurship and innovative investment strategies also capture my attention, embodying my business acumen.  
 
 ## Currently Focused On
 📂 Consciously curating a portfolio that reflects not just my technical prowess but also my diverse expertise. My aim is to build a cohesive digital archive that serves as a testament to my skills, ethical approach, and societal contributions.  
