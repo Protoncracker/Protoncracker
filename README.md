@@ -35,6 +35,7 @@
 ### Featured Projects
 - 💼 [Winux](https://github.com/Protoncracker/Winux/) - A cross-platform terminal tool made with terminal and Python. Brings together features from CMD, Linux Shell, and PowerShell for a versatile and easy terminal experience.
 - ⭐ [Exifpy](https://github.com/Protoncracker/exifpy) - An EXIF tool built with Python. Offers dual-interface and serves both as a standalone application and an importable package for code integration.
+- *More to be added on...*. I currently own approximately 200 projects, each abundant in code that I plan to comment on and structure more efficiently for this platform. As I'm in the early stages of using GitHub, you may want to stay tuned for further developments, it wont take long :)
 
 ## Get in Touch
 📧 [Email](mailto:tryme.freefall963@passinbox.com)
