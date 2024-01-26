@@ -30,7 +30,7 @@
 </ul>
 
 <h2>Technologies and Tools</h2>
-<p>Batch, Bash, C++, C, Java, Python, JavaScript, HTML5, SQL</p>
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![C](https://skillicons.dev/icons?i=c) ![C#](https://skillicons.dev/icons?i=cs) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Vue](https://skillicons.dev/icons?i=vue) ![Express](https://skillicons.dev/icons?i=express) ![Prisma](https://skillicons.dev/icons?i=prisma) ![PHP](https://skillicons.dev/icons?i=php) ![Symfony](https://skillicons.dev/icons?i=symfony) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 <h3>Featured Projects</h3>
 <ul>
