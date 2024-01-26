@@ -1,12 +1,27 @@
 <h1 align="center">Hello, Welcome to My GitHub! 👋</h1>
 
-<h2>About Me</h2>
-<ul>
-  <li>🔒 Nearly a decade in cybersecurity and programming, forming my way of thinking and acting.</li>
-  <li>🛠 Well-versed in a gamut of technologies—ranging from programming languages to infosec tools.</li>
-  <li>🌐 Here, you'll find both professional projects and passion projects that I've decided not to keep to myself.</li>
-  <li>🌍 Fluent in English, Spanish and Portuguese, with ongoing studies in 10 additional languages. My multilingual capabilities facilitate cross-border collaborations and diversified problem-solving.</li>
-</ul>
+<table>
+<tr>
+<td valign="top">
+
+### About Me
+
+- 🔒 Nearly a decade in cybersecurity and programming, forming my way of thinking and acting.
+- 🛠 Well-versed in a gamut of technologies—ranging from programming languages to infosec tools.
+- 🌐 Here, you'll find both professional projects and passion projects that I've decided not to keep to myself.
+- 🌍 Fluent in English, Spanish and Portuguese, with ongoing studies in 10 additional languages. My multilingual capabilities facilitate cross-border collaborations and diversified problem-solving.
+
+</td>
+<td valign="top">
+
+### Technologies and Tools
+
+<img src="https://skillicons.dev/icons?i=bash,cpp,c,java,python,js,html,sql&theme=dark" alt="Technologies Icons" />
+
+</td>
+</tr>
+</table>
+
 
 <h2>What Captures My Attention</h2>
 <ul>
@@ -28,9 +43,6 @@
   <li>🌐 Open to partnering on endeavors that combine multiple aspects of technology, such as integrating AI in cybersecurity, IoT applications in agribusiness, or blockchain in secure data transactions.</li>
   <li>🎵 With fluency in multiple languages and a passion for artistic expression, I am also open to collaborations that involve cultural interchange, translation services, or combining technology and the arts.</li>
 </ul>
-
-<h2>Technologies and Tools</h2>
-<img src="https://skillicons.dev/icons?i=batch,bash,cpp,c,java,python,js,html,sql&theme=dark" /> 
 
 <h3>Featured Projects</h3>
 <ul>
