@@ -30,7 +30,7 @@
 </ul>
 
 <h2>Technologies and Tools</h2>
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+<img src="https://skillicons.dev/icons?i=batch,bash,cpp,c,java,python,js,html,sql&theme=dark" /> 
 
 <h3>Featured Projects</h3>
 <ul>
