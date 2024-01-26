@@ -30,7 +30,7 @@
 </ul>
 
 <h2>Technologies and Tools</h2>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 
 <h3>Featured Projects</h3>
 <ul>
