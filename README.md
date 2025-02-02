@@ -38,6 +38,7 @@ By the time I turned 11, I had not only mastered these rudimentary commands but 
 <p align="center">
   <img src="rembember.png" alt="Remember Image" />
 </p>
+Which makes me a proud 10+ years programmer and +/- 10 years digital security breacher guy. 
 And yes I barely knew proper grammar then. This changed. (I guess).
 
 
@@ -97,7 +98,7 @@ Whether you're improving a project or collaborating with me, your support makes 
 Each project I own has its own unique way of rewarding contributions, and I'm sincerely grateful for every effort.
 
 ## Connect
-Feel free to reach out on any of my social medias.
+Feel free to reach out on any of my social midias.
 
 ## Find Me Elsewhere
 - Twitter: [@protoncracker](https://twitter.com/protoncracker)
@@ -116,8 +117,13 @@ Feel free to reach out on any of my social medias.
   - [ergomonitor](https://ergomonitor.quora.com/)
   - [winux](https://winux.quora.com/)
   - [thrintur](https://thrintur.quora.com/)
-  - [pt.quora.com/profile/Protoncracker](https://pt.quora.com/profile/Protoncracker)
+  - [Protoncracker](https://pt.quora.com/profile/Protoncracker)
 - Medium: [@protoncracker](https://medium.com/@protoncracker)
 - Patreon: [Protoncracker](https://patreon.com/Protoncracker)
 - Ko-fi: [Protoncracker](https://ko-fi.com/protoncracker)
 - Buy Me a Coffee: [Protoncracker](https://www.buymeacoffee.com/protoncracker)
+
+
+## Special Thanks
+
+I want to extend my heartfelt gratitude to everyone who has accompanied me on this journey. Your support during tough times and your willingness to help, no matter how small, means the world to me. Thank you for being there and for your unwavering encouragement.
