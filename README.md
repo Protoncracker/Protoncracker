@@ -88,7 +88,7 @@ Own: "A hacker needs only an entrypoint—if it exists, every wall is just a cha
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Protoncracker" alt="GitHub Streak" />
 </p>
 
-<h2>Get in Touch</h2>
+<h2>Get in Touch (professional)</h2>
 <p>📧 <a href="mailto:tryme.freefall963@passinbox.com">Email</a></p>
 
 ## Contributing
@@ -98,7 +98,7 @@ Whether you're improving a project or collaborating with me, your support makes 
 Each project I own has its own unique way of rewarding contributions, and I'm sincerely grateful for every effort.
 
 ## Connect
-Feel free to reach out on any of my social midias.
+Feel free to reach out on any of my social medias.
 
 ## Find Me Elsewhere
 - Twitter: [@protoncracker](https://twitter.com/protoncracker)
