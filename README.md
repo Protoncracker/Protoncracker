@@ -73,7 +73,7 @@ And yes I barely knew proper grammar then. This changed. (I guess).
   <li>*More to be added on...* I currently own approximately 200 projects, each abundant in code that I plan to comment on and structure more efficiently for this platform. As I'm in the early stages of using GitHub, you may want to stay tuned for further developments, it wont take long :)</li>
 </ul>
 
-## Personal Quote
+## Personal Quotes
 > Sacrifice: "The Bird of Hermes is my name, eating my wings to make me tame."
 
 > Passion: "A hacker needs only an entrypoint—if it exists, every wall is just a challenge waiting to be bypassed."
