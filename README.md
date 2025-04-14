@@ -74,9 +74,9 @@ And yes I barely knew proper grammar then. This changed. (I guess).
 </ul>
 
 ## Personal Quote
-Self control and sacrifice: "The Bird of Hermes is my name, eating my wings to make me tame."
+> Sacrifice: "The Bird of Hermes is my name, eating my wings to make me tame."
 
-Own: "A hacker needs only an entrypoint—if it exists, every wall is just a challenge waiting to be bypassed."
+> Passion: "A hacker needs only an entrypoint—if it exists, every wall is just a challenge waiting to be bypassed."
 
 ## Stats
 <p align="center">
