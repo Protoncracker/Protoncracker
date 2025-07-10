@@ -89,7 +89,7 @@ And yes I barely knew proper grammar then. This changed. (I guess).
 </p>
 
 <h2>Get in Touch (professional)</h2>
-<p>📧 <a href="mailto:tryme.freefall963@passinbox.com">Email</a></p>
+<p>📧 <a href="mailto:protoncracker@duck.com">Email me by clicking here</a></p> or send manually to protoncracker@duck.com.
 
 ## Contributing
 Contributions, issues, and feature requests are always welcome!  
